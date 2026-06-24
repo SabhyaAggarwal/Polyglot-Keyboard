@@ -1,3 +1,10 @@
+---
+title: "Polyglot-Keyboard"
+author: "Sabhya Aggarwal"
+description: "A keyboard that can function as both a stenography keyboard and a QWERTY keyboard"
+created_at: "2026-06-24"
+---
+
 # June 24: Made the schematic and PCB
 
 So I made the full schematic:
