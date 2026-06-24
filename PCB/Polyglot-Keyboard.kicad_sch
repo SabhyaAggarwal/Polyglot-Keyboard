@@ -1617,6 +1617,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 161.29) (xy 132.08 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07d44c87-b22c-4ab9-baa2-59ab1306d983")
+	)
+	(wire
+		(pts
 			(xy 43.18 69.85) (xy 66.04 69.85)
 		)
 		(stroke
@@ -1847,6 +1857,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 156.21) (xy 132.08 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38d23874-673d-4718-9398-7be29a474421")
+	)
+	(wire
+		(pts
 			(xy 148.59 69.85) (xy 165.1 69.85)
 		)
 		(stroke
@@ -1934,6 +1954,16 @@
 			(type default)
 		)
 		(uuid "48a3b5ef-d62c-4d43-add3-c640d0619e2c")
+	)
+	(wire
+		(pts
+			(xy 130.81 158.75) (xy 132.08 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48d3df92-7501-48df-a83f-6da30306ec31")
 	)
 	(wire
 		(pts
@@ -2067,13 +2097,13 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 140.97) (xy 168.91 140.97)
+			(xy 130.81 163.83) (xy 132.08 163.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6811c5d3-0f84-4c1c-9529-682c6bb76ad5")
+		(uuid "66cc2dfa-f6b2-44c6-892e-8d9ea1200116")
 	)
 	(wire
 		(pts
@@ -2134,16 +2164,6 @@
 			(type default)
 		)
 		(uuid "6f28ed7f-92fa-4cc9-9729-63b81960d623")
-	)
-	(wire
-		(pts
-			(xy 167.64 143.51) (xy 168.91 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73180cd2-8891-4771-aba2-d6cb7ce5e2e1")
 	)
 	(wire
 		(pts
@@ -2224,16 +2244,6 @@
 			(type default)
 		)
 		(uuid "82d68e76-0ce3-4763-863c-c537937cfd69")
-	)
-	(wire
-		(pts
-			(xy 130.81 161.29) (xy 132.08 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84897a71-7bff-4dad-b30e-699c1109df04")
 	)
 	(wire
 		(pts
@@ -2427,16 +2437,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 156.21) (xy 132.08 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a915bb6c-e888-4a16-a318-14912b88ff50")
-	)
-	(wire
-		(pts
 			(xy 181.61 91.44) (xy 198.12 91.44)
 		)
 		(stroke
@@ -2537,6 +2537,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 143.51) (xy 168.91 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8b77cbf-21e3-45a3-8ecb-a4f2c0da1280")
+	)
+	(wire
+		(pts
 			(xy 82.55 60.96) (xy 82.55 62.23)
 		)
 		(stroke
@@ -2544,6 +2554,16 @@
 			(type default)
 		)
 		(uuid "b8d658a3-c324-4ea6-883c-bd00977f7822")
+	)
+	(wire
+		(pts
+			(xy 167.64 140.97) (xy 168.91 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8f26e10-7674-4a49-93ff-a27300baee8e")
 	)
 	(wire
 		(pts
@@ -2594,16 +2614,6 @@
 			(type default)
 		)
 		(uuid "c6891115-5204-4501-92e2-960352510f12")
-	)
-	(wire
-		(pts
-			(xy 130.81 163.83) (xy 132.08 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9cdc709-a06b-49fa-b7ed-755c8ae67073")
 	)
 	(wire
 		(pts
@@ -2684,16 +2694,6 @@
 			(type default)
 		)
 		(uuid "d47796e0-b471-41f9-92a1-851caf717c6c")
-	)
-	(wire
-		(pts
-			(xy 130.81 158.75) (xy 132.08 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d61049b7-7c62-4480-a23e-400c3a8dda98")
 	)
 	(wire
 		(pts
@@ -2996,7 +2996,7 @@
 		(uuid "fec4725d-c511-4829-9c24-b801a078a529")
 	)
 	(label "COL9"
-		(at 130.81 163.83 180)
+		(at 130.81 161.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3016,22 +3016,22 @@
 		(uuid "1094fdd2-7b04-4e6c-a853-08e789f83014")
 	)
 	(label "COL6"
-		(at 130.81 156.21 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "12798d7d-b8cb-4a60-93f4-f56c2faa20c1")
-	)
-	(label "COL11"
 		(at 168.91 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
+		)
+		(uuid "12798d7d-b8cb-4a60-93f4-f56c2faa20c1")
+	)
+	(label "COL11"
+		(at 130.81 156.21 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
 		)
 		(uuid "1acd7076-8c9e-4ca7-b7b0-7633a0fedbc3")
 	)
@@ -3116,12 +3116,12 @@
 		(uuid "6635c844-28ad-4e54-873c-c6008eeccffb")
 	)
 	(label "COL10"
-		(at 168.91 140.97 0)
+		(at 130.81 158.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "7945f797-a9c3-4865-9f5b-e47bde16617e")
 	)
@@ -3196,12 +3196,12 @@
 		(uuid "a3ea3069-c4bf-487d-a81b-fd4ef65bbc4f")
 	)
 	(label "COL7"
-		(at 130.81 158.75 180)
+		(at 168.91 140.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "b53da7eb-f499-42b6-9b3b-a48e34aaf546")
 	)
@@ -3216,7 +3216,7 @@
 		(uuid "c25a2ad7-8860-4ae1-ba5f-3c6a244f0564")
 	)
 	(label "COL8"
-		(at 130.81 161.29 180)
+		(at 130.81 163.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
