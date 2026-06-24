@@ -19,7 +19,7 @@ and I made the PCB:
 
 Here is the beautiful 3d render of PCB:
 
-![3D render](images/image%20(12).png)
+![3D render](images/image.png)
 
 **Total time spent: 7 hrs**
 
