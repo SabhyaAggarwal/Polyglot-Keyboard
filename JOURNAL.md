@@ -1,8 +1,5 @@
-# Journal (from oldest to newest)
+# June 24: Made the schematic and PCB
 
-## Journal 1
-
-### Time : 7 hrs
 So I made the full schematic:
 
 ![Schematic](images/Screenshot%202026-06-24%20at%206.22.29%20PM.png)
@@ -15,9 +12,10 @@ Here is the beautiful 3d render of PCB:
 
 ![3D render](images/image%20(12).png)
 
-## Journal 2
+**Total time spent: 7 hrs**
 
-### Time : 3.5 hrs
+# June 24: Manually routed the board cleanly
+
 So I found out that auto routing is not allowed so I manually routed everything and I made it cleanly.
 
 ![Schematic](images/Screenshot%202026-06-24%20at%2010.08.11%E2%80%AFPM.png)
@@ -25,3 +23,5 @@ So I found out that auto routing is not allowed so I manually routed everything 
 ![PCB](images/Screenshot%202026-06-24%20at%2010.07.58%E2%80%AFPM.png)
 
 ![3D render](images/image%20(12).png)
+
+**Total time spent: 3.5 hrs**
