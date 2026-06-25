@@ -4809,7 +4809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RP2040 Zero:MODULE_RP2040-ZERO"
+		(property "Footprint" "Polyglot_footprints:MODULE_RP2040-ZERO"
 			(at 149.86 151.13 0)
 			(hide yes)
 			(show_name no)

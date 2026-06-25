@@ -153,6 +153,12 @@
 		(path "/3e29d8fb-5acd-413c-ad43-0540714f641e")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1131,6 +1137,12 @@
 		(path "/32b6e6ae-3c7e-4b91-bb15-feeef34f7002")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1389,6 +1401,12 @@
 		(path "/eb4548c5-eb9e-4ca9-87e6-97f604d07956")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1687,6 +1705,12 @@
 		(path "/ce3bec5a-5c94-4ff3-a01c-5ada17bccda3")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1997,6 +2021,12 @@
 		(path "/f9fbbbcb-6ddf-400a-8b44-e3109279880d")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2267,6 +2297,12 @@
 		(path "/9b448da6-6779-4760-9cd6-291b80dfd617")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2525,6 +2561,12 @@
 		(path "/e56f3be2-9bec-499d-a574-f039dc225445")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2835,6 +2877,12 @@
 		(path "/f946dba8-486c-4fda-950a-30c282e303bc")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3093,6 +3141,12 @@
 		(path "/7498fd90-05c6-49ef-ad8f-1077a9b58a50")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3403,6 +3457,12 @@
 		(path "/086fb16c-688e-4049-86e8-4a60ebd586f3")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3673,6 +3733,12 @@
 		(path "/0e68c82f-703b-4c47-82d2-1567ddb14f0e")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3931,6 +3997,12 @@
 		(path "/f029bcc3-3002-4e2a-ac0f-d3f81a1fac3f")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4229,6 +4301,12 @@
 		(path "/1a4f539f-b325-4e14-98eb-cbca9da443ad")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4893,6 +4971,12 @@
 		(path "/de509b0b-2053-4d74-8663-5e0c9c92c594")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -4991,6 +5075,12 @@
 		(path "/1878f9f7-73d8-4dc3-8e1b-3c5d6d04831a")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5301,6 +5391,12 @@
 		(path "/bd61faa5-4902-45ef-ad20-a54c9d6f6719")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5559,6 +5655,12 @@
 		(path "/6f22685d-4315-45ba-b0d4-ca9d510bf13c")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5857,6 +5959,12 @@
 		(path "/57e24727-0880-4640-a458-b57d97c3dc94")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6155,6 +6263,12 @@
 		(path "/67a2e2b7-980e-4cfa-a7cd-0a3dcfb4ed6c")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6453,6 +6567,12 @@
 		(path "/eae694aa-2f54-4be2-bf3c-314855583c7d")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6751,6 +6871,12 @@
 		(path "/35be85ce-3c33-4f96-bef0-145c37311c3d")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7061,6 +7187,12 @@
 		(path "/b6d9231f-4a10-482a-bbd7-cbbf0ad2e8ed")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -7159,6 +7291,12 @@
 		(path "/baa536a7-fd9e-4851-b2b8-7ec08660d3fd")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7457,6 +7595,12 @@
 		(path "/9780724b-2baf-4ede-bf3f-9916e91bed1b")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7755,6 +7899,12 @@
 		(path "/8e076fff-bb52-4363-94f9-9ec2851b44ba")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8053,6 +8203,12 @@
 		(path "/f3e450f8-67eb-4b85-9dc0-c514aba8849d")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8705,6 +8861,12 @@
 		(path "/cd35707a-5c27-4c8e-824d-deffe8beee1e")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9003,6 +9165,12 @@
 		(path "/5fa949c5-67ef-4949-b90e-e5d7f0d6e923")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9301,6 +9469,12 @@
 		(path "/cbea5419-5a84-465a-8cfb-a988eaa3ec82")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9611,6 +9785,12 @@
 		(path "/08ab8e6a-6227-404a-bb17-d4085e4d9383")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9869,6 +10049,12 @@
 		(path "/06e3cec9-bb36-4264-8af3-3f9d922f9465")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10167,6 +10353,12 @@
 		(path "/4d99e1a3-0c5d-4130-a9a6-cb7e3290c777")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10465,6 +10657,12 @@
 		(path "/557b27ab-755b-41be-8264-ad0496a4825c")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10763,6 +10961,12 @@
 		(path "/d63c0a4f-aeb5-4e28-9984-bb855d4c6e37")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11061,6 +11265,12 @@
 		(path "/5ea57531-025e-48fa-a70e-574608c4eb9b")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11371,6 +11581,12 @@
 		(path "/4158099f-c0d2-4209-9484-abad6f1260df")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11995,6 +12211,12 @@
 		(path "/d116c19e-4235-490c-b918-eb36610dd8ab")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12265,6 +12487,12 @@
 		(path "/ee45150f-9484-4932-9284-a28e4048e5e8")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12523,6 +12751,12 @@
 		(path "/b8e34823-965f-4d0a-b57a-2c5f8ee0ffbf")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12833,6 +13067,12 @@
 		(path "/0863ecea-76e1-4afa-ad12-3fb14cd9d609")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13103,6 +13343,12 @@
 		(path "/81414193-e471-4b6e-b2f0-d22ebce9986d")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13361,6 +13607,12 @@
 		(path "/433064e0-0ae6-4e14-93d4-5d9657171cc8")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13671,6 +13923,12 @@
 		(path "/0fc31cf5-e99c-476a-b5fa-8c07566f218d")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13941,6 +14199,12 @@
 		(path "/9b43790e-685d-401a-80e4-e675fe521dd5")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -14051,6 +14315,12 @@
 		(path "/fa0d5a58-5f7c-4b11-a896-11bca2948e46")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14309,6 +14579,12 @@
 		(path "/6dd6eb9c-3cf3-419c-acc3-033ca53f3fc3")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14619,6 +14895,12 @@
 		(path "/3d4d2bff-0e00-486d-8d5a-9381b696985c")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14877,6 +15159,12 @@
 		(path "/15c724ca-e507-4b9f-9d89-19a53a534c48")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15187,6 +15475,12 @@
 		(path "/b0b38242-9ff1-4572-8b10-e2cd9968a9c9")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15445,6 +15739,12 @@
 		(path "/51b8ceb0-fb4d-424f-95a8-4a6174cc1f7e")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15743,6 +16043,12 @@
 		(path "/70dc60d5-b493-4917-8977-1c059c6a27b1")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16053,6 +16359,12 @@
 		(path "/c142b77f-aa79-4cea-a5c3-13088249d537")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16311,6 +16623,12 @@
 		(path "/25359460-46d1-4d08-92b2-6316395a072e")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16963,6 +17281,12 @@
 		(path "/3f5dcdc4-770a-4daf-9b12-840e29fb66d2")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17273,6 +17597,12 @@
 		(path "/c1c62d7a-8739-44ea-82b3-b62b1db9287f")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17531,6 +17861,12 @@
 		(path "/9a49522f-0db7-4953-adca-84c8a34b3260")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17829,6 +18165,12 @@
 		(path "/0b24bc0f-22c9-4984-abad-b601df21c29a")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18127,6 +18469,12 @@
 		(path "/c23bedcb-7a15-4b3c-92fc-9b97191a4eff")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18437,6 +18785,12 @@
 		(path "/3b44e6e6-e972-42a3-b672-500e43be7c79")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19061,6 +19415,12 @@
 		(path "/e2ba5b29-402b-4af1-9864-474cceca909a")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19331,6 +19691,12 @@
 		(path "/06bae67a-19a8-4845-90e5-fedf7ee33186")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19601,6 +19967,12 @@
 		(path "/569b01d5-fe04-4bd6-bc7f-14e3643d5e79")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19871,6 +20243,12 @@
 		(path "/a0a501f9-9dd6-423f-8e2c-41792a00a5d8")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20129,6 +20507,12 @@
 		(path "/8a466732-bc45-4e0c-8ac4-e9984943481a")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20427,6 +20811,12 @@
 		(path "/3795b437-c1f5-4ff8-815f-24ffb24dd081")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21096,6 +21486,12 @@
 		(path "/b3896069-2dc7-4a95-8243-adc602e15ebc")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21354,6 +21750,12 @@
 		(path "/c0c31703-30d8-4f90-ae10-309ddee9041d")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21664,6 +22066,12 @@
 		(path "/e6da1280-5139-401d-924e-28495ebd4a82")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21934,6 +22342,12 @@
 		(path "/7f9812b7-e01a-472f-930d-2bce63e8b17e")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22204,6 +22618,12 @@
 		(path "/339ec5a7-c4c0-4b8f-964b-3353f38a5a13")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22474,6 +22894,12 @@
 		(path "/7b328184-7488-4a22-8c33-693efcf08d10")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22744,6 +23170,12 @@
 		(path "/2a07a21a-00cb-40de-ad00-ea737519d7fd")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23014,6 +23446,12 @@
 		(path "/2a681168-b8f9-4a7f-b0e7-70190c400bd0")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23255,7 +23693,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Low-Cost, High-Performance Pico-Like MCU Board Based On Raspberry Pi Microcontroller RP2040"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23412,6 +23850,14 @@
 		(path "/3406a719-04af-4052-a340-7621bdd26cc4")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "23" "21" "11" "12" "13"
+					"14" "15" "16" "17" "18" "19" "20" "22"
+				)
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24111,6 +24557,12 @@
 		(path "/49216f96-1ce1-4e49-8a93-c7c4a02f49a9")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24381,6 +24833,12 @@
 		(path "/1eb6caaf-34bf-48e2-b25a-cae303171357")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24651,6 +25109,12 @@
 		(path "/ccd563af-1a1f-4780-849d-341e965fe8a2")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24921,6 +25385,12 @@
 		(path "/577f077e-9e60-4b15-8c80-fe3417318e22")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25191,6 +25661,12 @@
 		(path "/8926188b-2288-421e-9f06-81ed99f09d9a")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25461,6 +25937,12 @@
 		(path "/bf8ffed8-8c33-48bb-96b2-86aa030ecd16")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25719,6 +26201,12 @@
 		(path "/e7d7682c-e7da-4bcc-a890-98e4e6259aaf")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26029,6 +26517,12 @@
 		(path "/af79f1f5-47a7-4695-9556-b6bfd711d45a")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26299,6 +26793,12 @@
 		(path "/36df3e79-2b1f-4c4b-9c3d-1217b6b65305")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26911,6 +27411,12 @@
 		(path "/107c3d6f-903e-4663-9a5a-c596b764c284")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27221,6 +27727,12 @@
 		(path "/c29fc1ad-fb32-4032-94fa-abb081936ec2")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27491,6 +28003,12 @@
 		(path "/d7a082ba-825b-40e8-af04-ff243a3f90a4")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27749,6 +28267,12 @@
 		(path "/a19c6a90-b6bb-496a-8265-15c083a0290b")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28047,6 +28571,12 @@
 		(path "/75032bfe-d4a7-477f-bc25-586360464e6a")
 		(sheetname "/")
 		(sheetfile "Polyglot-Keyboard.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
