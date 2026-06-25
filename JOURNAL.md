@@ -25,7 +25,7 @@ Here is the beautiful 3d render of PCB:
 
 # June 24: Manually routed the board cleanly
 
-So I found out that auto routing is not allowed so I manually routed everything and I made it cleanly. I had to modify the pinout, which GPI pins are connected to which, because as I exchanged that I made the routing even cleaner. In the middle I remembered that I can use 2 layers. As I remembered that, I made my routing very beautiful and very good. Now my PCB looks great. I love it 
+So I found out that auto routing is not allowed so I manually routed everything and I made it cleanly. I had to modify the pinout, which GPIO pins are connected to which, because as I exchanged that I made the routing even cleaner. In the middle I remembered that I can use 2 layers. As I remembered that, I made my routing very beautiful and very good. Now my PCB looks great. I love it 
 
 ![Schematic](images/Screenshot%202026-06-24%20at%2010.08.11%E2%80%AFPM.png)
 
@@ -34,3 +34,33 @@ So I found out that auto routing is not allowed so I manually routed everything 
 ![3D render](images/image%20(12).png)
 
 **Total time spent: 3.5 hrs**
+
+# June 25 : Fixed up the routing and all(again) and made Case and Firmware
+
+Today was a really productive day. I decided that I am not going to use other things for the main dev board but rather I'll just directly solder it on through the castellated edges...
+
+Old Footprint:
+
+![](images/Old-Footprint.png)
+
+New footprint:
+
+![](images/Update-Footprint.png)
+
+and I had to re-route as pads became larger:
+
+![](images/Re-Re-Routing.png)
+
+and I made the case in onshape(the holes at bottom are purposeful, they will help me verify if soldering is still fine if something breaks...):
+
+![](images/case-pic.png)
+
+And the 3d view of my finished keyboard!:
+
+![](images/Keyboard%20pic%201.png)
+
+![](images/keyboard%20pic%202.png)
+
+and I also made the firmware with QMK
+
+**Total time spent: 8 hrs**
