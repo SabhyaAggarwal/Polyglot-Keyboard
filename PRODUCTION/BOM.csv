@@ -1,0 +1,6 @@
+Name,Description,Quantity,Total Cost,Link,Distributor
+PCB,Main PCB(cost includes payment fees),1,$1.36,https://allpcb.com/,ALLPCB
+RP2040 Zero,Main Dev Board(cost includes shipping),1,$4.26,https://robu.in/product/waveshare-rp2040-zero-without-header/,robu
+MX Switches,MX switches(pack of 10 and 4 of them = 40 keys and rest 2 keys given by another HackClubber),4,$2.86,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/regular-switch-3pin/?attribute_pa_key-switches=regular-black,meckeys
+Keycaps,Blank Keycaps(pack of 5),9,$8.58,https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/?attribute_pa_variations=black,meckeys
+1N4148 Diode,1N4148 Diode(price not include shipping as shipping is shared with the RP2040 Zero),42,$0.55,https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/,robu
