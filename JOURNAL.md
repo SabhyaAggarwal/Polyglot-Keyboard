@@ -33,7 +33,7 @@ So I found out that auto routing is not allowed so I manually routed everything 
 
 ![3D render](images/image%20(12).png)
 
-**Total time spent: 3.6 hrs**
+**Total time spent: 3.7 hrs**
 
 # June 25 : Fixed up the routing and all(again) and made Case and Firmware
 
