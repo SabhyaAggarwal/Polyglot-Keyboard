@@ -64,3 +64,12 @@ And the 3d view of my finished keyboard!:
 and I also made the firmware with QMK
 
 **Total time spent: 8 hrs**
+
+# July 23 : Fixed up the case
+
+I fixed up the case by filling in all the extra holes... it now looks really clean!
+New Case:
+
+![](images/Final-Case.png)
+
+**Total time spent: 1 hrs**

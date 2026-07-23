@@ -25,13 +25,13 @@ This is a keyboard made by me that can change between stenography mode and QWERT
 
 ### 3D Render of the  assembled keyboard
 
-![](images/keyboard%20pic%202.png)
+![](images/Final-Keyboard-Pic.png)
 
 ### Case
 
-![](images/case-pic.png)
+![](images/Final-Case.png)
 
-#### Note: the case was designed in OnShape but the Case in the PRODUCTION folder is cut in 2 parts(for 3d printing) through Bambu Studio...
+#### Note: the case was designed in OnShape
 
 ### PCB Schematic
 
