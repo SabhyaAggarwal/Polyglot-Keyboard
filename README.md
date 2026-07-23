@@ -25,7 +25,7 @@ This is a keyboard made by me that can change between stenography mode and QWERT
 
 ### 3D Render of the  assembled keyboard
 
-![](images/Final-Keyboard-Pic.png)
+![](images/Final-Keyboard-Picture.png)
 
 ### Case
 
