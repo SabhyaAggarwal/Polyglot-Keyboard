@@ -31,7 +31,7 @@ This is a keyboard made by me that can change between stenography mode and QWERT
 
 ![](images/Final-Case.png)
 
-#### Note: the case was designed in OnShape
+#### Note: You can find the OnShape link [here](https://cad.onshape.com/documents/46c4256cf36649b9a784f734/w/7d5e5e40fb0c8f37601f916c/e/410489c67a58600f0a7678ff?renderMode=0&uiState=6a6b428066cc2ba4694d229c)...
 
 ### PCB Schematic
 
